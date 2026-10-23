@@ -2,7 +2,9 @@
 
 ## Sobre
 
-Esse é um site feito com HTML, onde 
+<img src="assets/image1.png" alt="image1" width="500">
+
+Esse é um site feito com HTML, onde eu mostro imagens de sites que eu mais gosto. Cada uma delas tem um link que leva para o site daquela imagem. Ele está disponível no Github Pages.
 
 ## Ferramenta Utilizada
 
@@ -10,4 +12,4 @@ Esse é um site feito com HTML, onde
 
 ## Como testar
 
-Acesse pelo link do GitHub Pages: []()
+Acesse pelo link do GitHub Pages: [sites-favoritos](https://marcuss25.github.io/sites-favoritos/)
