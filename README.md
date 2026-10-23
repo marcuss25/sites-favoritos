@@ -12,4 +12,4 @@ Esse é um site feito com HTML, onde eu mostro imagens de sites que eu mais gost
 
 ## Como testar
 
-Acesse pelo link do GitHub Pages: [sites-favoritos](https://marcuss25.github.io/sites-favoritos/)
+Acesse pelo link do GitHub Pages: <a href="https://marcuss25.github.io/sites-favoritos/" target="_blank">sites-favoritos</a>
